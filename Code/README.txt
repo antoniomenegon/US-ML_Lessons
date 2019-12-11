@@ -1,0 +1,1 @@
+Here one can find the sample code, based on what has been presented in the lessons. In particular, the Google Colab is based on a simple regression problem for a mock univariate time series. For the sake of simolicity, the notebook generalizes some examples of TensorFlow tutorials.
